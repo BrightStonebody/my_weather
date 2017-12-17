@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+MERGED from [:library] D:\code\android\my_weather\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\ec2fa21f049bd2e302751d77c564631a\AndroidManifest.xml:2:1-16:12
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:17:1-31:12
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\45bfbaf9842a14b955376eba13989103\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7e37cf9300657989d563a9d227fbb3f1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1763deab275254df4a4262037d2ec04e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c0bdfc56e7b183a5a8580f436d64117f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.yanzhenjie:loading:1.0.0] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\loading-1.0.0.aar\d18a000ebf662156e8f88e7dab295c04\AndroidManifest.xml:17:1-25:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:13:5-81
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:24:5-81
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:24:5-81
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:12:5-81
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:14:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:17:22-65
+application
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:20:5-81:19
+MERGED from [:library] D:\code\android\my_weather\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] D:\code\android\my_weather\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\ec2fa21f049bd2e302751d77c564631a\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\ec2fa21f049bd2e302751d77c564631a\AndroidManifest.xml:11:5-14:19
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:27:5-33:19
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:27:5-33:19
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:14:5-18:19
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:29:5-20
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\45bfbaf9842a14b955376eba13989103\AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\45bfbaf9842a14b955376eba13989103\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1763deab275254df4a4262037d2ec04e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1763deab275254df4a4262037d2ec04e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:29:9-45
+	android:supportsRtl
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:26:9-41
+	android:hardwareAccelerated
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:24:9-43
+	android:resizeableActivity
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:27:9-43
+	android:roundIcon
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:28:9-41
+	android:configChanges
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:23:9-70
+	android:icon
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:25:9-36
+	android:allowBackup
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:21:9-54
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:32:9-34:64
+	android:value
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:33:13-50
+meta-data#UMENG_APPKEY
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:35:9-37:56
+	android:value
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:36:13-40
+meta-data#UMENG_CHANNEL
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:38:9-40:41
+	android:value
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:40:13-38
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:39:13-41
+meta-data#com.example.chenlei.my_weather.myViews.GlideConfigModule
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:41:9-43:42
+	android:value
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:43:13-40
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:42:13-84
+activity#com.example.chenlei.my_weather.MainActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:46:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:52:27-74
+service#com.amap.api.location.APSService
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:56:9-68
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:56:18-65
+service#com.example.chenlei.my_weather.service.AutoRemindService
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:57:9-60:39
+	android:enabled
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:59:13-35
+	android:exported
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:58:13-54
+activity#com.example.chenlei.my_weather.SelectCityActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:62:9-56
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:62:19-53
+receiver#com.example.chenlei.my_weather.broadcastReceiver.MyReceiver
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:64:9-71:20
+	android:enabled
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:65:13-57
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:68:13-70:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:69:25-74
+activity#com.example.chenlei.my_weather.CityManagerActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:73:9-57
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:73:19-54
+activity#com.example.chenlei.my_weather.SetActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:74:9-49
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:74:19-46
+activity#com.example.chenlei.my_weather.DetailActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:75:9-52
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:75:19-49
+activity#com.example.chenlei.my_weather.SuggestActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:76:9-53
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:76:19-50
+activity#com.example.chenlei.my_weather.ChooseBgActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:77:9-54
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:77:19-51
+activity#me.nereo.multi_image_selector.MultiImageSelectorActivity
+ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:78:9-80:87
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:15:9-17:62
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:15:9-17:62
+	android:configChanges
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:79:13-59
+	android:name
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml:80:13-84
+uses-sdk
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+MERGED from [:library] D:\code\android\my_weather\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:library] D:\code\android\my_weather\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\ec2fa21f049bd2e302751d77c564631a\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\ec2fa21f049bd2e302751d77c564631a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:20:5-22:41
+MERGED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:21:5-23:78
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\45bfbaf9842a14b955376eba13989103\AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\45bfbaf9842a14b955376eba13989103\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7e37cf9300657989d563a9d227fbb3f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7e37cf9300657989d563a9d227fbb3f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1763deab275254df4a4262037d2ec04e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1763deab275254df4a4262037d2ec04e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c0bdfc56e7b183a5a8580f436d64117f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c0bdfc56e7b183a5a8580f436d64117f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.yanzhenjie:loading:1.0.0] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\loading-1.0.0.aar\d18a000ebf662156e8f88e7dab295c04\AndroidManifest.xml:21:5-23:41
+MERGED from [com.yanzhenjie:loading:1.0.0] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\loading-1.0.0.aar\d18a000ebf662156e8f88e7dab295c04\AndroidManifest.xml:21:5-23:41
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\my_weather\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:25:5-80
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:11:5-80
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\MultiImageSelector-1.2.aar\adb780aab3d62d91e2ff4ca86deffcb2\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:25:22-77
+activity#com.yanzhenjie.durban.DurbanActivity
+ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:28:9-32:75
+	android:windowSoftInputMode
+		ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:32:13-72
+	android:configChanges
+		ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [com.yanzhenjie:durban:1.0.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\durban-1.0.1.aar\abd42d04efc439a82c22102c7036c017\AndroidManifest.xml:29:13-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7e37cf9300657989d563a9d227fbb3f1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7e37cf9300657989d563a9d227fbb3f1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\e9a4b00dcc44d81c2c960e644c6de37a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\64b8c23ffdd20d3d8d676893d6f7b9c3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4051ec66b2f66f36205800ef04e43a72\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d4ae7bce1817d00b413e3e376330d43d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\71c719c8410b8d705e1032f475c70ab0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e7cdd3cb6e40cb9ceef4785013956f08\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7a7c982b877cc908710238baa97c1f7a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\505e23ec71aecae5f2fbe54bd98ca68a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d6c92c1cff47b0143da1ecf0b6a23f3d\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chenlei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0669ef3b394ced4658d9d57f8d6fd605\AndroidManifest.xml:26:9-47

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.yanzhenjie:loading-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loading-1.0.0.aar/d18a000ebf662156e8f88e7dab295c04/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loading-1.0.0.aar/d18a000ebf662156e8f88e7dab295c04/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie/loading/1.0.0/a7cde597b113d2d426db48c1f74d1c8439220f74/loading-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
