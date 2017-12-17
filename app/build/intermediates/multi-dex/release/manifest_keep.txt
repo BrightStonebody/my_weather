@@ -1,3 +1,0 @@
-# Referenced at D:\code\android\my_weather\app\build\intermediates\manifests\full\release\AndroidManifest.xml:30
--keep class org.litepal.LitePalApplication { <init>(...); }
-
